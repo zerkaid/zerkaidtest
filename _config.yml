@@ -1,4 +1,7 @@
 theme: jekyll-theme-midnight
+title: Zerkaid's Blog of Things
+description: Writeups for CTF's and Labs
+
 lsi: false
 safe: true
 source: zerkaid
