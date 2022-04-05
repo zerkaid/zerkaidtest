@@ -29,7 +29,7 @@ twitter_username: zerkaid
 github_username:  zerkaid
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: Midnight
 plugins:
   - jekyll-feed
 
